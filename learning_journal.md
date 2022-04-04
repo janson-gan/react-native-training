@@ -1,9 +1,9 @@
-# React-Native-Training
+# Learning Journal - 4th April 2022
 ## Day 1: Activate Interactive Pte Ltd
 ### HR Matter:
 * Collection of Mac laptop, ART test kit and company t-shirt issued by Sherry.
 * Company introduction by Sherry.
-* Introduction to Activate staff.
+* Activate staff introduction.
 ### React Native Training
 * Learning objectives brief by Anya.
 * [React Native Training Goals](https://docs.google.com/document/d/1X1WgRPKxWwenKXswD5xHcuEZ4NFRj8EWmkCC8MLsBwg/edit)
